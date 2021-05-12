@@ -29,10 +29,6 @@ address {
     color: #0f0f0f;
 }
 
-.column-content {
-    padding: 0px;
-}
-
 body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
